@@ -1,0 +1,16 @@
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\gaming practice.exe
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\gaming practice.deps.json
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\gaming practice.runtimeconfig.json
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\gaming practice.runtimeconfig.dev.json
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\gaming practice.dll
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\ref\gaming practice.dll
+C:\Users\keila\Documents\source\repos321\gaming practice\bin\Debug\net5.0\gaming practice.pdb
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.csprojAssemblyReference.cache
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.AssemblyInfoInputs.cache
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.AssemblyInfo.cs
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.csproj.CoreCompileInputs.cache
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.dll
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\ref\gaming practice.dll
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.pdb
+C:\Users\keila\Documents\source\repos321\gaming practice\obj\Debug\net5.0\gaming practice.genruntimeconfig.cache
